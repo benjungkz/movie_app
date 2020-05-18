@@ -1,0 +1,8 @@
+a{
+    text-decoration: none;
+}
+.movie{
+    &__title{
+        color: blue;
+    }
+}
